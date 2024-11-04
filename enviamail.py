@@ -4,10 +4,10 @@ from email.mime.text import MIMEText
 import pandas as pd
 
 # Configurações do servidor de e-mail
-USUARIO = "m23621"  # Somente o login, sem o domínio ou o @
-SENHA = "GxgLTr2012" # Senha para o domínio REDE
-SMTP_SERVER = "m.almg.gov.br"
-SMTP_PORT = 587
+USUARIO = ""  # Somente o login, sem o domínio ou o @
+SENHA = "" # Senha para o domínio REDE
+SMTP_SERVER = ""
+SMTP_PORT = 
 
 # Função para enviar e-mail
 def enviar_email(destinatario, assunto, mensagem):
