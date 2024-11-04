@@ -1,0 +1,11 @@
+tarefa,data_prazo,hora_prazo,email
+"Reunião com cliente", "2024-11-10", "10:00", "alexandre.sauer@almg.gov.br"
+"Revisar projeto", "2024-11-12", "15:30", "alexandre.sauer@almg.gov.br"
+"Pagamento de contas", "2024-11-15", "09:00", "alexandre.sauer@almg.gov.br"
+"Consulta médica", "2024-11-20", "11:00", "alexandre.sauer@almg.gov.br"
+"Treinamento equipe", "2024-11-25", "13:00", "alexandre.sauer@almg.gov.br"
+"Apresentação mensal", "2024-11-27", "16:30", "alexandre.sauer@almg.gov.br"
+"Entrega de documentos", "2024-12-01", "10:00", "alexandre.sauer@almg.gov.br"
+"Renovar assinatura", "2024-12-03", "12:00", "alexandre.sauer@almg.gov.br"
+"Buscar passaporte", "2024-12-06", "08:00", "alexandre.sauer@almg.gov.br"
+"Fazer backup", "2024-12-10", "17:00", "alexandre.sauer@almg.gov.br"
